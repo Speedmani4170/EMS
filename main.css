@@ -1,0 +1,74 @@
+h1{
+	padding: 30px;
+}
+*{
+
+box-sizing:border-box;
+}
+
+html,body{
+	background:linear-gradient(to top right,#80cbc4,#e1bee7
+,#80ddea,#d1c4e9);
+height:100%;
+}
+.tblogin{
+	border:gray 5px solid;
+	backgrounnd-color:white;
+	height:50%;
+	width:30%;
+	border-radius:50px;
+	margin-top:150px;
+	color:black;
+	background:linear-gradient(to top right,#b506eb,#16f6fe,#fff306); 
+	padding: 20px;
+text-align: center;
+align-content: center;
+}
+input[type=text],[type=password]{
+	border:#ccc 1px solid;
+	padding:10px 20px;
+	border-radius: 20px;
+font-family: "Helvetica Neue", Arial, sans-serif;
+font-size: 20px;
+color: red;
+}
+label{
+	font-size: 25px;
+}
+th{
+	font-size: 25px;
+}
+input[type=submit]{
+	width:60%;
+	height:50px;
+	border-radius:200px;
+	align-content: center;
+	margin-left: 30px;
+font-size: 25px;
+
+font-family: sans-serif;
+background:linear-gradient(to top right,#80cbc4,#e1bee7
+,#80ddea,#d1c4e9); 
+	color:black;}
+input[type=submit]:hover{
+	background: black;
+color:deepskyblue;
+	
+}
+.message{
+	text-align: center;
+	width:100%;
+	color:white;
+	font-size: 25px;
+	border-radius: 2px solid #80cbc4 ;
+}
+td{
+	padding:20px;
+}
+
+
+
+
+
+
+   

@@ -1,0 +1,53 @@
+
+        body{
+             background:#fff;
+
+        }
+        .tab_container{
+            width:100%;
+            align-content: center;
+        }
+        table {
+            margin-left: 100px;
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 80%;
+  border: 2px solid;
+}
+
+th, td {
+  text-align: center;
+  padding: 5px;
+}
+
+th {
+    align-content: center;
+  background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+  border: 2px solid;
+}
+a{
+font-size: 20px;
+text-decoration: none;
+
+color: white;
+}
+.edit{
+background-color: blue;
+color: white;
+padding: 5px;
+margin: 5px;
+border-radius: 15px;
+text-align: center;
+}
+.delete{
+    background-color: red;
+color:white;
+border-radius: 15px;
+padding: 5px;
+}
+
+
